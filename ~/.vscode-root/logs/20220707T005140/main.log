@@ -1,0 +1,6 @@
+[2022-07-07 00:51:40.420] [main] [info] update#setState idle
+[2022-07-07 00:51:41.724] [main] [info] Starting extension host with pid 6273 (fork() took 10 ms).
+[2022-07-07 00:52:10.438] [main] [info] update#setState checking for updates
+[2022-07-07 00:52:10.866] [main] [info] update#setState idle
+[2022-07-07 00:52:40.853] [main] [info] Waiting for extension host with pid 6273 to exit.
+[2022-07-07 00:52:40.858] [main] [info] Extension host with pid 6273 exited with code: 0, signal: null.
